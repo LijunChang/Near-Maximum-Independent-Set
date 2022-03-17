@@ -1,4 +1,3 @@
-# Near-Maximum Independent Set
 Computing A Near-Maximum Independent Set in Linear Time by Reducing-Peeling
 
 # Compile
