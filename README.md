@@ -8,7 +8,7 @@ $ make
 
 # Usage
 ```sh
-./pscan {alg} {graph_directory}
+./mis {alg} {graph_directory}
 ```
 alg is chosen from "greedy, greedy_dynamic, BDOne, BDTwo, LinearTime, NearLinear"
 
