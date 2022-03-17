@@ -12,6 +12,7 @@ $ make
 ```
 
 ## Run the code
+Different algorithms can be invoked by executing "mis".
 ```sh
 ./mis {alg} {graph_directory}
 ```
