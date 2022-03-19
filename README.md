@@ -1,7 +1,7 @@
 This repository implements the near-maximum independent set computation algorithms proposed in our SIGMOD 2017 paper. If you are using the code, please cite our paper.
 <pre>
 Lijun Chang, Wei Li and Wenjie Zhang.
-<a href="pdf/sigmod2017.pdf">Computing A Near-Maximum Independent Set in Linear Time by Reducing-Peeling.</a>
+<a href="https://lijunchang.github.io/pdf/2017-mis-sigmod.pdf">Computing A Near-Maximum Independent Set in Linear Time by Reducing-Peeling.</a>
 SIGMOD Conference 2017
 </pre>
 
