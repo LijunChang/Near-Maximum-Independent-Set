@@ -1,3 +1,5 @@
+# Near-Maximum Independent Set
+
 This repository implements the near-maximum independent set computation algorithms proposed in our SIGMOD 2017 paper. If you are using the code, please cite our paper.
 <pre>
 Lijun Chang, Wei Li and Wenjie Zhang.
