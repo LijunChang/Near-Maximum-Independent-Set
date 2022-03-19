@@ -20,8 +20,8 @@ alg is chosen from "greedy, greedy_dynamic, BDOne, BDTwo, LinearTime, NearLinear
 
 For example,
 ```sh
-./mis LinearTime example_graph
+./mis LinearTime datasets/CA-GrQc
 ```
 
 ## Data format
-Each graph is represented by two binary files, b_adj.bin and b_degree.bin (e.g. example_graph/b_adj.bin and example_graph/b_degree.bin). More details of the data format can be found in [https://github.com/LijunChang/Cohesive_subgraph_book/tree/master/datasets](https://github.com/LijunChang/Cohesive_subgraph_book/tree/master/datasets)
+Each graph is represented by two binary files, b_adj.bin and b_degree.bin (e.g. datasets/CA-GrQc/b_adj.bin and datasets/CA-GrQc/b_degree.bin). More details of the data format can be found in [https://lijunchang.github.io/Cohesive_subgraph_book/datasets](https://lijunchang.github.io/Cohesive_subgraph_book/datasets)
